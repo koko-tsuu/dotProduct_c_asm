@@ -14,6 +14,8 @@ asmDotProduct:
 	push r8			; B
 	mov r15, 0		; iterator
 	push r15
+    xorps xmm0, xmm0 ; initialize to 0
+	movsd [sdot], xmm0 ; restart var
 	call loop
 	pop rsi
 	movsd xmm0, [sdot]
