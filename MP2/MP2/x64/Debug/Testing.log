@@ -1,0 +1,4 @@
+﻿  Performing Custom Build Tools
+  dotProduct_c.c
+C:\Users\hanzp\OneDrive\Documents\Assembly\dotProduct_c_asm\dotProduct_c.c(31,2): warning C4013: 'getch' undefined; assuming extern returning int
+  Testing.vcxproj -> C:\Users\hanzp\OneDrive\Documents\Assembly\Testing\x64\Debug\MP2.exe

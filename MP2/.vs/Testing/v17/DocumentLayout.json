@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanzp\\OneDrive\\Documents\\Assembly\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F800CA0A-CAE9-42BC-8BB5-06389D535BE1}|Testing.vcxproj|C:\\Users\\hanzp\\OneDrive\\Documents\\Assembly\\dotProduct_c_asm\\dotProduct_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F800CA0A-CAE9-42BC-8BB5-06389D535BE1}|Testing.vcxproj|C:\\Users\\hanzp\\OneDrive\\Documents\\Assembly\\Testing\\dotProduct_asm.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F800CA0A-CAE9-42BC-8BB5-06389D535BE1}|Testing.vcxproj|solutionrelative:dotProduct_asm.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dotProduct_c.c",
+              "DocumentMoniker": "C:\\Users\\hanzp\\OneDrive\\Documents\\Assembly\\dotProduct_c_asm\\dotProduct_c.c",
+              "RelativeDocumentMoniker": "..\\dotProduct_c_asm\\dotProduct_c.c",
+              "ToolTip": "C:\\Users\\hanzp\\OneDrive\\Documents\\Assembly\\dotProduct_c_asm\\dotProduct_c.c",
+              "RelativeToolTip": "..\\dotProduct_c_asm\\dotProduct_c.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-26T10:25:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dotProduct_asm.asm",
+              "DocumentMoniker": "C:\\Users\\hanzp\\OneDrive\\Documents\\Assembly\\Testing\\dotProduct_asm.asm",
+              "RelativeDocumentMoniker": "dotProduct_asm.asm",
+              "ToolTip": "C:\\Users\\hanzp\\OneDrive\\Documents\\Assembly\\Testing\\dotProduct_asm.asm",
+              "RelativeToolTip": "dotProduct_asm.asm",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-26T10:12:51.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
